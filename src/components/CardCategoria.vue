@@ -25,7 +25,7 @@
 <script lang="ts">
 import type { PropType } from "vue";
 
-import ICategoria from "../interfaces/ICategoria";
+import type ICategoria from "../interfaces/ICategoria";
 import IngredienteSelecionavel from "./IngredienteSelecionavel.vue";
 
 export default {
